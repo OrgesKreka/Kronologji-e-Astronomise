@@ -41,7 +41,7 @@ header p {
   content: "";
   background: #c5cae9;
   width: 5px;
-  height: 95%;
+  height: 98%;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
